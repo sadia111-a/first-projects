@@ -9,10 +9,55 @@
     color: white;
     display: flex;
     align-items: center;
+    justify-content: space-around;
+    
 }
 .logo-photo{
     width: 120px;
 }
 .menus{
+   display: flex;
    
+}
+.item{
+    margin-right: 20px;
+    /* color: brown; */
+}
+.menus:hover{
+    cursor: pointer;
+    color: blue;
+}
+.item:hover{
+    color: brown;
+}
+.headline{
+    font-size: 34px;
+    font-family:sans-serif ;
+    
+}
+.btn{
+    background-color: red;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 10px;
+}
+.banar-text{
+    margin-top: 24px;
+    padding: 15px;
+    color: white;
+   
+}
+.baner-img{
+    width: 330px;
+}
+.banar-container{
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    border: 2px solid black;
+    align-items: center;
+    background-image:url('./images/background/background.png'),linear-gradient(45deg,#282626,#282222);
+}
+.text{
+    margin-top: 10px;
 }

@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.nav-container{
+    background-color: rgb(50, 49, 49);
+    padding: 10px;
+    list-style: none;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+.logo-photo{
+    width: 120px;
+}
+.menus{
+   
+}

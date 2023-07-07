@@ -134,3 +134,13 @@ margin-top: 10px;
     padding: 5px;
     margin-top: 10px;
 }
+.foot{
+    background-color: black;
+    color: white;
+}
+.foot-text{
+    text-align: center;
+    margin-top: 20px;
+    padding: 30px;
+
+}

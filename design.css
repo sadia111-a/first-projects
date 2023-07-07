@@ -77,3 +77,34 @@
     align-items: center;
     flex-direction: row-reverse;
 }
+
+.box{
+    height:280px ;
+    width: 250px;
+    box-shadow: 4px 4px 15px gray;
+    background-color: black;
+    text-align: center;
+    color: white;
+    /* padding: 15px; */
+
+}
+.icon{
+    width: 70px;
+    margin-top: 20px;
+}
+.hd{
+margin-top: 10px;
+}
+.pera{
+margin-top: 10px;
+}
+.box-btn{
+    background-color: grey;
+    margin-top: 10px;
+}
+.banar-container3{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+    background-image: url('./images/background/background.png'),linear-gradient(45deg,#282626,#282222);
+}

@@ -70,6 +70,8 @@
     font-size: 50px;
     font-weight: bold;
     padding: 20px;
+    background-color: rgb(7, 6, 6);
+    color: white;
 }
 .banar-container2{
     display: flex;

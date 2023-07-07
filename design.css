@@ -108,3 +108,29 @@ margin-top: 10px;
     padding: 50px;
     background-image: url('./images/background/background.png'),linear-gradient(45deg,#282626,#282222);
 }
+.logo1{
+    width:100px;
+}
+.logo-photo1{
+    width:150px ;
+    padding: 10px;
+}
+.last-page{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+}
+.pera1{
+    color: white;
+    padding: 20px;
+    margin-top: 0px;
+}
+.pera2{
+    color: white;
+    padding: 5px;
+}
+.hd1{
+    color: white;
+    padding: 5px;
+    margin-top: 10px;
+}
